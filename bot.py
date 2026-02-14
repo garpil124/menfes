@@ -6,10 +6,10 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # ================= CONFIG =================
-BOT_TOKEN = "ISI_BOT_TOKEN"
-API_ID = 123456
-API_HASH = "ISI_API_HASH"
-OWNER_ID = 123456789
+BOT_TOKEN = "8592932302:AAEHq6drZbmFZduBXM3BbNZkaUN6NLSullI"
+API_ID = 22214169
+API_HASH = "e0a3e43ad63f7fb6c65679ef4ccde4c9"
+OWNER_ID = 6827875982
 TIMEZONE = "Asia/Jakarta"
 # ==========================================
 
